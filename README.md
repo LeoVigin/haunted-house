@@ -1,16 +1,26 @@
-# Three.js Journey
+# Haunted House
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+## Installation & Start
 
+- Download the folder or clone the repository using
 ``` bash
-# Install dependencies (only the first time)
+git clone https://github.com/LeoVigin/integration-web.git
+```
+- Open the project in any local development server.
+- Install dependencies
+```bash
 npm install
-
-# Run the local server at localhost:8080
+```
+- Run the local server at localhost:8080
+```bash
 npm run dev
-
-# Build for production in the dist/ directory
+```
+- Build for production in the dist/ directory
+```bash
 npm run build
 ```
+
+You can access the deployed project here: [Haunted House](https://sass-ashy-rho.vercel.app/)
+
+## Authors
+@Leogeox
