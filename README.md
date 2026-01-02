@@ -1,4 +1,6 @@
 # Haunted House
+<img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/e9447294-099a-4d3e-8916-b737478030ef" />
+A three.js project displaying a haunted house.
 
 ## Installation & Start
 
