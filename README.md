@@ -25,4 +25,4 @@ npm run build
 You can access the deployed project here: [Haunted House](https://haunted-house-nu-roan.vercel.app/)
 
 ## Authors
-@Leogeox
+@LeoVigin
